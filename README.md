@@ -25,13 +25,6 @@ I am studying Computer Science at UNIMA/AFYA in the seventh period. I know C++, 
 ![SKILL](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )
 
- # Contact:
-You can contact me via email: arthur18497@hotmail.com
-
- # Languages:
- - **Portuguese**(Fluence)
- - **English** (B2)
-  
  # Git Hub Status:
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthur180497&show_icons=true&count_private=true&hide_border=true&title_color=14452f&icon_color=14452f&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
@@ -49,9 +42,16 @@ You can contact me via email: arthur18497@hotmail.com
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-# Social Media:
+ # Languages:
+ - **Portuguese**(Fluence)
+ - **English** (B2)
+
+  # Social Media:
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur.m.m/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-menezes-8ba797242/)
+
+ # Contact:
+You can contact me via email: arthur18497@hotmail.com
 
 ##
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=14452f&height=120&section=footer"/>
